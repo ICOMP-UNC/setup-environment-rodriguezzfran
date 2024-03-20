@@ -29,12 +29,12 @@ void test_logic_divide(void)
  
 }
 
-# before the test
+// before the test
 void setUp(void)
 {
 }
 
-# after the test
+// after the test
 void tearDown(void)
 {
 }
